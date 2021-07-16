@@ -8,6 +8,7 @@ pd.set_option('precision', 6)
 import io
 import regex as re
 import argparse
+import re
 
 from helpers import EDFReader
 
